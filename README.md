@@ -5,6 +5,6 @@
  * angular: ng serve
 
 # Used version
-  Angular CLI: 13.3.3
-  Node: 16.17.0
-  Package Manager: npm 8.15.0
+ * Angular CLI: 13.3.3
+ * Node: 16.17.0
+ * Package Manager: npm 8.15.0
